@@ -1,0 +1,13 @@
+Package: stoicfortunes
+Version: 1.0-0
+Date: 2017-01-17
+Title: Maxims from the ancient stoics
+Author: Marco D. Visser and the people from http://stoicmaxims.github.io/
+Maintainer: Marco D. Visser <marco.d.visser@gmail.com>
+Description: Stoic Maxims
+Imports:
+    utils
+License: GPL-2
+Collate:
+    'fortunes.R'
+RoxygenNote: 5.0.1
