@@ -7,6 +7,9 @@ Stoicism is an ancient Greek philosophy (developed by Zeno of Citium around 300 
 ## install from github 
 install_github("MarcoDVisser/stoicfortunes")
 
+##load
+require(stoicfortunes)
+
 ## use
 stoicfortune()
 
